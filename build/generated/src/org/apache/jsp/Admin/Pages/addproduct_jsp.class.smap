@@ -1,0 +1,30 @@
+SMAP
+addproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 addproduct.jsp
+Admin/Pages/addproduct.jsp
++ 1 dbconnect.jsp
+Admin/Pages/dbconnect.jsp
+*L
+1,4:51
+1#1:54,2
+3,23:57
+25:80,2
+4#0,3:82
+7:85,3
+8,57:88
+65:145,3
+66:148
+67:149,3
+68,24:152
+92,16:177
+107:193
+108:194,6
+109:200
+110,3:202
+112,72:205
+184:277,3
+185,45:280
+*E
